@@ -10,3 +10,6 @@ deal to the customer. Once alerted about these deals, the customer is routed bac
 have maintained a loyal customer base. 
 
 **At this moment Deal2Watch.com is under reevaluation, as a new update should be released in the coming year, as well as a re-release of the website**
+• As the site is going under construction, you may access the beta version which at the moment does not include all the features
+
+http://mypricedeal.com/ 
